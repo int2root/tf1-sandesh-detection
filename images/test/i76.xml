@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sandesh</folder>
+	<filename>i76.jpg</filename>
+	<path>/Users/siddhartha/Downloads/sandesh/i76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandesh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>21</ymin>
+			<xmax>307</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

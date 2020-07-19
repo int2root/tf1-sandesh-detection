@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sandesh</folder>
+	<filename>i85.jpg</filename>
+	<path>/Users/siddhartha/Downloads/sandesh/i85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandesh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>318</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
